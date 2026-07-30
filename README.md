@@ -62,7 +62,7 @@
           <b>Presidency University, Bangalore</b><br/>
           <i>Bachelor of Technology (B.Tech)</i><br/>
           Computer Science Engineering<br/>
-          <b style="color: #00FFCC; font-size: 1.2em;">CGPA: 8.58 / 10.0</b>
+          <b style="color: #00FFCC; font-size: 1.2em;"></b>
         </p>
         <hr style="border: 1px dashed #30363D; width: 80%;" />
         <h3 align="center">📚 Core Theoretical Foundation</h3>
