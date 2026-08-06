@@ -11,10 +11,10 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:sufiilshaikh.789@gmail.com">
+  <a href="mailto:sufiiishaikh.789@gmail.com">
     <img src="https://img.shields.io/badge/Encrypted_Comms-sufiilshaikh.789%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFCC&labelColor=161B22&border=00FFCC" alt="Email" />
   </a>
-  <a href="https://github.com/sufiilshaikh789-boop">
+  <a href="https://github.com/sufiiishaikh789-boop">
     <img src="https://img.shields.io/badge/Neural_Network-sufiilshaikh789--boop-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=161B22&border=00FFCC" alt="GitHub" />
   </a>
   <a href="#">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sufiilshaikh789-boop&label=PROFILE+ACCESS+LOGS&color=00FFCC&style=for-the-badge&base=1000" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=sufiiishaikh789-boop&label=PROFILE+ACCESS+LOGS&color=00FFCC&style=for-the-badge&base=1000" alt="Profile Views" />
 
 <br/>
 <br/>
@@ -43,7 +43,6 @@
       <td width="55%" valign="top" align="center" style="padding: 20px;">
         <h3 align="center">👨‍💻 Operational Identity</h3>
         <p align="justify" style="color: #C9D1D9;">
-          👨‍💻 Operational Identity
 
 I am a B.Tech Computer Science & Engineering undergraduate at Presidency University, Bangalore, passionate about building intelligent software that solves real-world problems.
 
