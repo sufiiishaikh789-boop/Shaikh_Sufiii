@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:8A2BE2,75:00FFCC,100:0D1117&height=300&section=header&text=SUFIYAN%20SAMEER%20SHAIKH&fontSize=65&fontColor=FFFFFF&animation=twinkling&desc=Data%20Base%20Managerr%20%7C%20Web-Developer%20Architect&descAlignY=72&descAlign=50&descSize=24" width="100%" alt="Cyberpunk Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:8A2BE2,75:00FFCC,100:0D1117&height=300&section=header&text=SUFIYAN%20SAMEER%20SHAIKH&fontSize=65&fontColor=FFFFFF&animation=twinkling&desc=Data-%20Base%20Manager%20%7C%20Web-Developer%20Architect&descAlignY=72&descAlign=50&descSize=24" width="100%" alt="Cyberpunk Header" />
 
 <br/>
 
