@@ -223,7 +223,7 @@ Through academic coursework, hands-on AI projects, and practical GPU computing e
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sufiilshaikh789-boop&theme=synthwave&no-frame=true&no-bg=true&margin-w=25&title-color=00FFCC&text-color=C9D1D9" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sufiiishaikh789-boop&theme=synthwave&no-frame=true&no-bg=true&margin-w=25&title-color=00FFCC&text-color=C9D1D9" alt="GitHub Trophies" />
 </div>
 
 <br/>
