@@ -43,17 +43,13 @@
       <td width="55%" valign="top" align="center" style="padding: 20px;">
         <h3 align="center">👨‍💻 Operational Identity</h3>
         <p align="justify" style="color: #C9D1D9;">
-          I am a specialized <b>Software & Artificial Intelligence Engineer</b> operating at the intersection of complex algorithmic theory and real-world deployment. My methodology focuses on designing intelligent, high-performance systems utilizing state-of-the-art Deep Learning paradigms, GPU acceleration, and robust Full-Stack architectures.
-        </p>
-        <h3 align="center">🧠 Core Computational Domains</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Artificial_Intelligence-00FFCC?style=flat-square&logo=openai&logoColor=0D1117&labelColor=0D1117&color=0D1117" alt="AI" />
-          <img src="https://img.shields.io/badge/Machine_Learning-8A2BE2?style=flat-square&logo=scikit-learn&logoColor=0D1117&labelColor=0D1117&color=0D1117" alt="ML" />
-          <img src="https://img.shields.io/badge/Computer_Vision-00FFCC?style=flat-square&logo=opencv&logoColor=0D1117&labelColor=0D1117&color=0D1117" alt="CV" />
-          <br/><br/>
-          <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square&logo=deeplearning&logoColor=0D1117&labelColor=0D1117&color=0D1117" alt="DL" />
-          <img src="https://img.shields.io/badge/Full_Stack_Dev-00FFCC?style=flat-square&logo=react&logoColor=0D1117&labelColor=0D1117&color=0D1117" alt="FSD" />
-          <img src="https://img.shields.io/badge/Algorithmic_Optimization-8A2BE2?style=flat-square&logo=codeforces&logoColor=0D1117&labelColor=0D1117&color=0D1117" alt="Algorithms" />
+          👨‍💻 Operational Identity
+
+I am a B.Tech Computer Science & Engineering undergraduate at Presidency University, Bangalore, passionate about building intelligent software that solves real-world problems.
+
+My interests include Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Python Programming, and Full-Stack Development.
+
+Through academic coursework, hands-on AI projects, and practical GPU computing experience, I continuously strengthen my understanding of modern software engineering and intelligent systems while building impactful real-world applications.
         </div>
       </td>
       <td width="45%" valign="top" align="center" style="padding: 20px; border-left: 1px solid #30363D;">
@@ -75,7 +71,6 @@
           <br/><br/>
           <img src="https://img.shields.io/badge/Software_Engineering-161B22?style=flat-square&logoColor=00FFCC&border=30363D" alt="SE" />
           <img src="https://img.shields.io/badge/Object_Oriented_Programming-161B22?style=flat-square&logoColor=00FFCC&border=30363D" alt="OOP" />
-        </div>
       </td>
     </tr>
   </table>
