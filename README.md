@@ -63,7 +63,7 @@ Through academic coursework, hands-on AI projects, and practical GPU computing e
         <hr style="border: 1px dashed #30363D; width: 80%;" />
         <h3 align="center">📚 Core Theoretical Foundation</h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/Design_&_Analysis_of_Algorithms-161B22?style=flat-square&logoColor=00FFCC&border=30363D" alt="DAA" />
+          <img src="https://img.shields.io/badge/Design_&_Analysis_of_Algorithms-161B22?style=flat-square&logoColor=00FFCC&border=30363D" alt="Data Structures & Algorithms" />
           <img src="https://img.shields.io/badge/Database_Management_Systems-161B22?style=flat-square&logoColor=00FFCC&border=30363D" alt="DBMS" />
           <br/><br/>
           <img src="https://img.shields.io/badge/Operating_Systems-161B22?style=flat-square&logoColor=00FFCC&border=30363D" alt="OS" />
