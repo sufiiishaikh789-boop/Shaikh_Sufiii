@@ -233,12 +233,12 @@ Through academic coursework, hands-on AI projects, and practical GPU computing e
     <tr style="border: none;">
       <td width="50%" align="center" style="border: none;">
         <a href="https://github.com/sufiilshaikh789-boop">
-          <img src="https://github-readme-stats.vercel.app/api?username=sufiilshaikh789-boop&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00FFCC&text_color=C9D1D9&icon_color=8A2BE2&ring_color=00FFCC" alt="GitHub Global Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=sufiiishaikh789-boop&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00FFCC&text_color=C9D1D9&icon_color=8A2BE2&ring_color=00FFCC" alt="GitHub Global Stats" />
         </a>
       </td>
       <td width="50%" align="center" style="border: none;">
-        <a href="https://github.com/sufiilshaikh789-boop">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiilshaikh789-boop&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=00FFCC&text_color=C9D1D9" alt="Top Languages" />
+        <a href="https://github.com/sufiiishaikh789-boop">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiiishaikh789-boop&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=00FFCC&text_color=C9D1D9" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -248,16 +248,16 @@ Through academic coursework, hands-on AI projects, and practical GPU computing e
 <br/>
 
 <div align="center">
-  <a href="https://github.com/sufiilshaikh789-boop">
-    <img src="https://streak-stats.demolab.com?user=sufiilshaikh789-boop&theme=react&bg_color=0D1117&hide_border=true&title_color=00FFCC&text_color=C9D1D9&sideNums=00FFCC&sideLabels=C9D1D9&ring=8A2BE2&fire=00FFCC&currStreakLabel=00FFCC&currStreakNum=C9D1D9" alt="GitHub Commit Streak" />
+  <a href="https://github.com/sufiiishaikh789-boop">
+    <img src="https://streak-stats.demolab.com?user=sufiiishaikh789-boop&theme=react&bg_color=0D1117&hide_border=true&title_color=00FFCC&text_color=C9D1D9&sideNums=00FFCC&sideLabels=C9D1D9&ring=8A2BE2&fire=00FFCC&currStreakLabel=00FFCC&currStreakNum=C9D1D9" alt="GitHub Commit Streak" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/sufiilshaikh789-boop">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sufiilshaikh789-boop&bg_color=0D1117&color=C9D1D9&line=00FFCC&point=8A2BE2&area=true&hide_border=true&title_color=00FFCC" width="100%" alt="Dynamic Activity Graph" />
+  <a href="https://github.com/sufiiishaikh789-boop">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sufiiishaikh789-boop&bg_color=0D1117&color=C9D1D9&line=00FFCC&point=8A2BE2&area=true&hide_border=true&title_color=00FFCC" width="100%" alt="Dynamic Activity Graph" />
   </a>
 </div>
 
@@ -266,9 +266,9 @@ Through academic coursework, hands-on AI projects, and practical GPU computing e
 <div align="center">
   <h3 align="center" style="color: #00FFCC;">🐍 Continuous Integration Snake (Contribution Matrix)</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sufiilshaikh789-boop/sufiilshaikh789-boop/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sufiilshaikh789-boop/sufiilshaikh789-boop/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Matrix Animation" src="https://raw.githubusercontent.com/sufiilshaikh789-boop/sufiilshaikh789-boop/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sufiilshaikh789-boop/sufiiishaikh789-boop/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sufiilshaikh789-boop/sufiiishaikh789-boop/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Matrix Animation" src="https://raw.githubusercontent.com/sufiilshaikh789-boop/sufiiishaikh789-boop/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
